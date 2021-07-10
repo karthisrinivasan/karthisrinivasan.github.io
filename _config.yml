@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Karthi Srinivasan"
 title_separator          : "-"
 name                     : &name "Karthi Srinivasan"
 description              : &description "EE Undergrad student at IIT Madras"
@@ -86,7 +86,7 @@ author:
   location         : "Chennai, IN"
   employer         :
   pubmed           :
-  googlescholar    : 
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
