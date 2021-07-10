@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Karthi Srinivasan's Personal Webpage"
+title: "Karthi Srinivasan's Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from:
