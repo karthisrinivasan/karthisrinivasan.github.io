@@ -18,6 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Research Notes"
+    url: /quartz/
 
 #  - title: "Guide"
 #    url: /markdown/
