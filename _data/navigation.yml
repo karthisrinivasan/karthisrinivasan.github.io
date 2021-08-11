@@ -19,7 +19,7 @@ main:
     url: /cv/
 
   - title: "Research Notes"
-    url: /quartz/
+    url: https://karthisgarden.netlify.app
 
 #  - title: "Guide"
 #    url: /markdown/
