@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Click [here]() for my up-to-date CV
+Click [here](https://karthisrinivasan.github.io/files/Karthi_CV.pdf) for my up-to-date CV
