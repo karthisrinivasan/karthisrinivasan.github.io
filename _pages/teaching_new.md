@@ -7,7 +7,7 @@ author_profile: true
 
 ### EE2019: Analog Systems and Lab
 - January - May 2022
-- I am the head TA, under Prof. Sankaran Aniruddhan, for this course where I manage a team of 30 TAs, coordinate tutorial sessions and handle other course logistics.
+- I was the head TA, under Prof. Sankaran Aniruddhan, for this course where I managed a team of 30 TAs, coordinated tutorial sessions and handled other course logistics.
 
 ### EE6347: Devices and Technologies for Neuromorphic Computing
 - July - November 2021

@@ -5,9 +5,9 @@ permalink: /papers/
 author_profile: true
 ---
 
-## Accepted - ISCAS 2022
+## Conference papers
 
-- K. Srinivasan, G. Cowan, _Subthreshold CMOS Implementation of the Izhikevich Neuron Model_. [[pdf](https://karthisrinivasan.github.io/files/Izhikevich_Circuit.pdf)]
+- K. Srinivasan, G. Cowan, _Subthreshold CMOS Implementation of the Izhikevich Neuron Model_. ISCAS 2022 [[pdf](https://karthisrinivasan.github.io/files/Izhikevich_Circuit.pdf)]
 
 ## Pre-print
 
