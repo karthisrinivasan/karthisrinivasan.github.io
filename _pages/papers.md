@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference papers
 
-- Srinivasan, K., Moses, Y. and Manohar, R., 2023. _Opportunistic Mutual Exclusion_. ASYNC 2023 [[pdf]((https://karthisrinivasan.github.io/files/Opportunistic_Mutual_Exclusion.pdf))]
+- Srinivasan, K., Moses, Y. and Manohar, R., 2023. _Opportunistic Mutual Exclusion_. ASYNC 2023 [[pdf](https://karthisrinivasan.github.io/files/Opportunistic_Mutual_Exclusion.pdf)]
     - Best paper finalist
 
 - K. Srinivasan, G. Cowan, _Subthreshold CMOS Implementation of the Izhikevich Neuron Model_. ISCAS 2022 [[pdf](https://karthisrinivasan.github.io/files/Izhikevich_Circuit.pdf)]
