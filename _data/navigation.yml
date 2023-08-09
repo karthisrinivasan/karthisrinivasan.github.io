@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Research Notes"
-    url: https://karthisrinivasan.netlify.app
+  # - title: "Research Notes"
+  #   url: https://karthisrinivasan.netlify.app
 
 #  - title: "Guide"
 #    url: /markdown/
