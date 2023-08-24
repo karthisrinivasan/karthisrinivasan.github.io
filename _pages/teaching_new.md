@@ -5,11 +5,11 @@ permalink: /teaching_new/
 author_profile: true
 ---
 
-### EE2019: Analog Systems and Lab
+### EE2019: Analog Systems and Lab, IIT Madras
 - January - May 2022
 - I was the head TA, under Prof. Sankaran Aniruddhan, for this course where I managed a team of 30 TAs, coordinated tutorial sessions and handled other course logistics.
 
-### EE6347: Devices and Technologies for Neuromorphic Computing
+### EE6347: Devices and Technologies for Neuromorphic Computing, IIT Madras
 - July - November 2021
 - I was a teaching assistant under Prof. Bhaswar Chakrabarti during Jul-Nov 2021 for this course, where I provided solutions to tutorials and quizzes, prepared slides to teach spiking neural network topics and handled other course logistics.
 - [[Slides](https://karthisrinivasan.github.io/files/Spiking_Neurons_and_Networks.pdf)]
