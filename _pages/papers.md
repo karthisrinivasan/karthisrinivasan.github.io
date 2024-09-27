@@ -7,6 +7,8 @@ author_profile: true
 
 ## Conference papers
 
+- Srinivasan, K., and Manohar, R., 2024. _Maelstrom: A Logic Synthesis Technique for Asynchronous Circuits_. International Workshop on Logic Synthesis (IWLS) 2024.
+
 - Srinivasan, K., Moses, Y. and Manohar, R., 2023. _Opportunistic Mutual Exclusion_. ASYNC 2023 [[IEEE](https://ieeexplore.ieee.org/document/10239610)][[pdf](https://karthisrinivasan.github.io/files/Opportunistic_Mutual_Exclusion.pdf)]
     - Best paper finalist
 
