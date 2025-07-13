@@ -11,7 +11,7 @@ author_profile: true
 
 ### EENG426: Silicon Compilation, Yale University
 - August - December 2024
-- I was a teaching assistant under Prof. Rajit Manohar, where I held office hours and handle grading for assignments.
+- I was a teaching assistant under Prof. Rajit Manohar, where I held office hours and handled grading for assignments.
 
 ### EENG348: Digital Systems, Yale University
 - January - May 2024
