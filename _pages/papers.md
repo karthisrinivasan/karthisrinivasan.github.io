@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal papers
 
-- Srinivasan, K., and Manohar, R., 2025. _Maelstrom: A Logic Synthesis Technique for Asynchronous Circuits_. Transactions on Computer-Aided Design of Integrated Circuits and Systems. [[IEEE]https://ieeexplore.ieee.org/document/11008552][[pdf](https://karthisrinivasan.github.io/files/Maelstrom.pdf)]
+- Srinivasan, K., and Manohar, R., 2025. _Maelstrom: A Logic Synthesis Technique for Asynchronous Circuits_. Transactions on Computer-Aided Design of Integrated Circuits and Systems. [[IEEE](https://ieeexplore.ieee.org/document/11008552)][[pdf](https://karthisrinivasan.github.io/files/Maelstrom.pdf)]
 
 ## Conference papers
 
