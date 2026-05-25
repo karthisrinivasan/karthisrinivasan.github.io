@@ -7,7 +7,7 @@ author_profile: true
 
 ### ECE4250: Introduction to VLSI System Design, Yale University
 - August - December 2025
-- I am a teaching assistant under Prof. Rajit Manohar, where I held office hours and handled grading for assignments.
+- I was a teaching assistant under Prof. Rajit Manohar, where I held office hours and handled grading for assignments.
 
 ### EENG348: Digital Systems, Yale University
 - January - May 2025
