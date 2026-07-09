@@ -11,6 +11,10 @@ author_profile: true
 
 ## Conference papers
 
+- Srinivasan, K., and Manohar, R., 2026. _Improved Logic Synthesis for Asynchronous Circuits_. ASYNC 2026 [[IEEE](https://ieeexplore.ieee.org/document/11594602)][[pdf](https://karthisrinivasan.github.io/files/Maelstrom2.pdf)]
+
+- Srinivasan, K., Richter, O., Schmerge, J., and Manohar, R., 2026. _Taking Timing Out of the Equation: Moving Fully Automated Synthesis as close as possible to Delay-Insensitive Circuits_. ASYNC 2026 [[IEEE](https://ieeexplore.ieee.org/document/11594483)][[pdf](https://karthisrinivasan.github.io/files/DI_Synth.pdf)]
+
 - Srinivasan, K., and Manohar, R., 2025. _Automated Decomposition of Concurrent Programs for Asynchronous Logic Synthesis_. ASYNC 2025 [[IEEE](https://ieeexplore.ieee.org/document/11021109)][[pdf](https://karthisrinivasan.github.io/files/Auto_Decomp.pdf)]
 
 - Srinivasan, K., and Manohar, R., 2024. (Poster) _Maelstrom: A Logic Synthesis Technique for Asynchronous Circuits_. International Workshop on Logic Synthesis (IWLS) 2024.
